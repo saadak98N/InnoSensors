@@ -19,7 +19,7 @@ This subfolder contains the code for the micro controllers that have been deploy
 
 ### Webportal
 This subfolder contains the code for the webportal that is relevant to our submission at hackathon. The webportal itself is a long term project of ours, and a part of it was submitted in the hackathon. NUST servers are utilized at the backend for processing and storage purposes. The website itself has been built using Sufee HTML5 template. 
-The link will direct you directly to the data that is being sent to us by our sensors: http://111.68.101.17/tables-dataview.php?from=2020-12-07&to=2020-12-08&downbutton=Filter+Data
+The link will direct you directly to the data that is being sent to us by our sensors: http://111.68.101.17/tables-dataview.php
 
 ### Forecasting
 This subfolder contains a data file and a python notebook, showcasing the relevancy of our work for the forecasting of air and soil properties for the next 7 hours or 7 days, as per farmer/researcher requirements. This model, after further refinement, will be integrated with our webportal. 
